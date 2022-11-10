@@ -1,0 +1,23 @@
+F:\IDAT - TERCER CICLO\Herramientas de Programación I\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\bin\Debug\Proyecto_PrestamoLibros.exe.config
+F:\IDAT - TERCER CICLO\Herramientas de Programación I\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\bin\Debug\Proyecto_PrestamoLibros.exe
+F:\IDAT - TERCER CICLO\Herramientas de Programación I\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\bin\Debug\Proyecto_PrestamoLibros.pdb
+F:\IDAT - TERCER CICLO\Herramientas de Programación I\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\bin\Debug\Proyecto_PrestamoLibros.xml
+F:\IDAT - TERCER CICLO\Herramientas de Programación I\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\obj\Debug\Proyecto_PrestamoLibros.PrestamoLibros.resources
+F:\IDAT - TERCER CICLO\Herramientas de Programación I\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\obj\Debug\Proyecto_PrestamoLibros.Resources.resources
+F:\IDAT - TERCER CICLO\Herramientas de Programación I\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\obj\Debug\Proyecto_PrestamoLibros.vbproj.GenerateResource.Cache
+F:\IDAT - TERCER CICLO\Herramientas de Programación I\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\obj\Debug\Proyecto_PrestamoLibros.exe
+F:\IDAT - TERCER CICLO\Herramientas de Programación I\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\obj\Debug\Proyecto_PrestamoLibros.xml
+F:\IDAT - TERCER CICLO\Herramientas de Programación I\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\obj\Debug\Proyecto_PrestamoLibros.pdb
+I:\Users\MENDOZA AMAYA.DESKTOP-H1JHF9M\Documents\Algoritmo\C#\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\bin\Debug\Proyecto_PrestamoLibros.exe.config
+I:\Users\MENDOZA AMAYA.DESKTOP-H1JHF9M\Documents\Algoritmo\C#\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\bin\Debug\Proyecto_PrestamoLibros.exe
+I:\Users\MENDOZA AMAYA.DESKTOP-H1JHF9M\Documents\Algoritmo\C#\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\bin\Debug\Proyecto_PrestamoLibros.pdb
+I:\Users\MENDOZA AMAYA.DESKTOP-H1JHF9M\Documents\Algoritmo\C#\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\bin\Debug\Proyecto_PrestamoLibros.xml
+I:\Users\MENDOZA AMAYA.DESKTOP-H1JHF9M\Documents\Algoritmo\C#\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\obj\Debug\Proyecto_PrestamoLibros.vbproj.AssemblyReference.cache
+I:\Users\MENDOZA AMAYA.DESKTOP-H1JHF9M\Documents\Algoritmo\C#\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\obj\Debug\Proyecto_PrestamoLibros.vbproj.SuggestedBindingRedirects.cache
+I:\Users\MENDOZA AMAYA.DESKTOP-H1JHF9M\Documents\Algoritmo\C#\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\obj\Debug\Proyecto_PrestamoLibros.PrestamoLibros.resources
+I:\Users\MENDOZA AMAYA.DESKTOP-H1JHF9M\Documents\Algoritmo\C#\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\obj\Debug\Proyecto_PrestamoLibros.Resources.resources
+I:\Users\MENDOZA AMAYA.DESKTOP-H1JHF9M\Documents\Algoritmo\C#\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\obj\Debug\Proyecto_PrestamoLibros.vbproj.GenerateResource.cache
+I:\Users\MENDOZA AMAYA.DESKTOP-H1JHF9M\Documents\Algoritmo\C#\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\obj\Debug\Proyecto_PrestamoLibros.vbproj.CoreCompileInputs.cache
+I:\Users\MENDOZA AMAYA.DESKTOP-H1JHF9M\Documents\Algoritmo\C#\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\obj\Debug\Proyecto_PrestamoLibros.exe
+I:\Users\MENDOZA AMAYA.DESKTOP-H1JHF9M\Documents\Algoritmo\C#\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\obj\Debug\Proyecto_PrestamoLibros.xml
+I:\Users\MENDOZA AMAYA.DESKTOP-H1JHF9M\Documents\Algoritmo\C#\Proyecto_PrestamoLibros\Proyecto_PrestamoLibros\obj\Debug\Proyecto_PrestamoLibros.pdb
